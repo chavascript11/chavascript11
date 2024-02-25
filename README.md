@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, I'm Chava Orozco! 👋
 
-<!--
-**chavascript11/chavascript11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Informatic Engineering student with experience in web, desktop, and Android application development. I'm passionate about technology and software development, and here you'll find a variety of projects I've worked on, including personal projects and a professional residency project.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Engineering student at Instituto Tecnologico Nacional de México Campus Colima.
+- 💻 Experienced in web, desktop, and Android application development.
+- 🌱 Always learning and exploring new technologies.
+- 📫 You can reach me at salvadororozcogtz11@gmail.com.
+
+## Technologies I Use
+
+- Programming Languages: Java, PHP, Python, Ruby, C++, JavaScript
+- Frameworks and Libraries: Android SDK, Laravel, CodeIgniter
+- Databases: SQL Server, MySQL.
+- Development Tools: Git, VS Code, Android Studio.
+
+## Contributions
+
+I'm open to collaborations and contributions on interesting projects! If you have ideas for collaboration or improving any of my projects, feel free to reach out or submit a pull request.
+
+## Thanks for Visiting!
+
+Thanks for taking the time to visit my GitHub profile! If you have any questions or just want to chat about technology, feel free to get in touch. I hope you find my projects interesting!
